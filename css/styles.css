@@ -1,0 +1,106 @@
+body{
+
+  font-family: "Montserrat";
+}
+
+h2{
+  font-weight: 600;
+}
+
+
+
+.container-fluid{
+    background-color: #000;
+  padding: 3% 15%;
+}
+
+.background-black{
+
+  background-color: #000;
+}
+
+/* Title Section */
+
+.main-logo{
+
+  width: 250px;
+}
+
+.lia-image-div{
+
+  text-align: center;
+  padding: 0;
+
+}
+
+.home-banner{
+
+  padding: 0 15%;
+}
+
+.first-header{
+
+  font-weight: 700;
+  padding: 15% 2% 10%;
+  text-align: right;
+}
+
+.lia-image{
+
+  width: 100%;
+}
+
+
+/* Features Section */
+
+#features{
+
+  background-color: #fff;
+  text-align: center;
+  padding: 0;
+
+}
+
+.features{
+
+  background-color: #ff9e5e;
+}
+
+.feature-icon{
+
+
+}
+/* Pricing */
+
+#work-with-me{
+
+  padding: 3% 15%;
+}
+
+.pricing-header{
+
+  text-align: center;
+}
+
+@media (max-width: 1342px){
+
+  .first-header{
+    font-size: 2rem;
+
+  }
+}
+
+@media (max-width: 1083px){
+
+  .first-header{
+    font-size: 1.5rem;
+
+  }
+}
+@media (max-width: 991px){
+
+  .first-header{
+    text-align: center;
+
+  }
+}
